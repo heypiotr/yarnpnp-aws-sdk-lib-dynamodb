@@ -1,0 +1,10 @@
+{
+  "name": "yarnpnp-aws-ddb",
+  "type": "module",
+  "packageManager": "yarn@4.0.2",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.454.0",
+    "@aws-sdk/lib-dynamodb": "^3.454.0",
+    "typescript": "^5.3.2"
+  }
+}
